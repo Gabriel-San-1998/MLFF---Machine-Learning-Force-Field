@@ -20,7 +20,7 @@ A pasta `energy_otm` contém um código que realiza a seguinte sequência de pas
 6. Atribui a diferença de energia à interação entre o par de átomos escolhido, já que o restante da estrutura é mantido fixo.
 7. Repete esse processo para várias distâncias e gera um arquivo contendo a energia em função da distância.
 
-Na pasta referente ao modelo treinado com cutoff de 5 Å, também foram realizadas análises utilizando cutoff de 10 Å para fins comparativos.
+Na pasta referente ao modelo treinado com cutoff de 5 Å, foram realizadas análises de energias utilizando cutoff de 5 Å e 10 Å para fins comparativos.
 
 O resultado final é uma curva de interação, como a seguinte:
 
